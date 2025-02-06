@@ -23,3 +23,16 @@ This project focuses on **machine learning and data analysis** using **Python, P
 ├── 📜 requirements.txt # Dependencies
 
 ├── 📜 README.md # This file
+
+
+## 🔍 Features  
+✔️ Data cleaning and preprocessing  
+✔️ Exploratory Data Analysis (EDA)  
+✔️ Machine learning model training & evaluation  
+✔️ Visualizing insights  
+
+## 🚀 How to Run  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
+   cd your-repo
