@@ -36,3 +36,5 @@ This project focuses on **machine learning and data analysis** using **Python, P
    ```bash
    git clone https://github.com/your-username/your-repo.git
    cd your-repo
+
+pip install -r requirements.txt
